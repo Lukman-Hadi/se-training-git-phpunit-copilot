@@ -1,0 +1,1 @@
+{"php.validate.enable": true,"php.validate.executablePath": "php","phpunit.php": "php","phpunit.phpunit": "${workspaceFolder}/phpunit/vendor/bin/phpunit","phpunit.args": ["--configuration","${workspaceFolder}/phpunit/tests/phpunit.xml"],"intelephense.format.enable": true,"debug.allowBreakpointsEverywhere": true}
